@@ -27,7 +27,7 @@ namespace WpfSimpleGame.Presentation
         {
             _gameViewModel = gameViewModel;
             InitializeComponent();
-        }
+        } 
 
         private void GameBoard_Click(object sender, RoutedEventArgs e)
         {
